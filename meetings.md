@@ -8,7 +8,7 @@
 
 | Date | Type | Attendees | MOM Link |
 |---|---|---|---|
-| | | | |
+| 2026-05-12 | Weekly Sync #2 | Ashish Vishal, Harshit Kaushik, Will Cardwell, Nix Cardwell, Ben Kind, Laura Morris | [moms/2026-05-12/](moms/2026-05-12/mom.md) |
 
 ---
 
