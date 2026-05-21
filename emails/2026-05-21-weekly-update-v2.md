@@ -19,8 +19,6 @@ Here's where we are:
 
 **We've set up conversion tracking in GA4.** This is something new we've put in place this week — we've created event goals to track two things specifically: how many users are submitting the January inquiry form, and how many are completing the booking form. Up until now we've been reporting on traffic, but this means we can now show you how many people are actually taking action when they land on your site. We'll start including this in your monthly report going forward.
 
-**Quora is ready to go.** We've been warming up the Quora account over the past few weeks and it's now active and trusted on the platform. From next week we'll start answering questions around school photography, photo quality, and choosing a photographer in the UK — all linking back naturally to Imago. Quora answers rank well on Google and get cited by AI tools, so this feeds into the wider visibility work we're doing.
-
 **Website copy update is in progress.** We're working through the pages and weaving in the high-resolution and HD quality language we discussed. This will be done by the end of the week.
 
 ---
@@ -97,8 +95,8 @@ Yes. Parents can return to the online ordering platform after their initial orde
 
 Alongside the FAQs, here are five blog topics we'd like to write for Imago over the coming weeks. You mentioned on our last call that you'd like to have input on the angles before we start writing, so please let us know which of these you're happy with, which you'd like to tweak, and if there's anything you'd prefer we cover instead.
 
-1. **Why HD school photos matter — and what parents should look for when choosing a photographer** — this one targets quality-conscious parents and positions Imago's resolution advantage directly
-2. **How to choose the right school photographer in the UK: a guide for school administrators** — targets your actual decision-makers at the research stage, high chance of ranking well
+1. **How to choose the right school photography company in the UK: a guide for school administrators** — targets your actual decision-makers at the research stage; answers the exact question schools type into Google when they're looking to switch provider
+2. **Why image quality matters when choosing a school photographer: a guide for school business managers** — positions Imago's HD quality advantage directly with the people who make the buying decision
 3. **What to expect on school photo day: a practical guide for schools** — evergreen content that builds trust with new school contacts and works well as a referral piece
 4. **GDPR and school photography in 2026: what every school needs to know** — very relevant right now; positions Imago as a knowledgeable, safe pair of hands on a topic schools genuinely worry about
 5. **Leavers' photography: why it matters and how to get it right** — timely given we're in leavers' season; targets schools thinking about this for the first time or looking to switch provider
@@ -107,7 +105,7 @@ Say the word and we'll get writing.
 
 ---
 
-One last thing — we're still waiting on three things from your side to move forward on the GMB and reviews work. No pressure, but when you get a moment: your Instagram, Facebook, and YouTube profile links; a copy of the review request email you currently send to schools; and the month and year Imago was founded (for the Business Profile). A quick reply whenever suits you is all we need.
+One last thing on the Google Business Profile — you mentioned you'd take care of the updates on your end. Could you let us know roughly when that's likely to be done? Once it's live we can move straight on to the next round of optimisation for the listing, so we just want to make sure we're ready to go as soon as you are.
 
 Speak soon — we'll be in touch to lock in the call for next week.
 
