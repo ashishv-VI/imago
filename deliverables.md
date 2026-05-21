@@ -17,4 +17,5 @@
 
 | Date | Deliverable | Type | File |
 |---|---|---|---|
-| 2026-05-21 | Weekly update email — no call week | Email | [emails/2026-05-21-weekly-update-no-call.md](emails/2026-05-21-weekly-update-no-call.md) |
+| 2026-05-21 | Weekly update email — no call week (full version) | Email | [emails/2026-05-21-weekly-update-full.md](emails/2026-05-21-weekly-update-full.md) |
+| 2026-05-21 | Weekly update email — no call week (draft) | Email | [emails/2026-05-21-weekly-update-no-call.md](emails/2026-05-21-weekly-update-no-call.md) |
