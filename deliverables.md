@@ -9,7 +9,7 @@
 
 | Date | Deliverable | Type | File |
 |---|---|---|---|
-| | | | |
+| 2026-05-21 | DD-3584 — 3 FAQ entries (USP / quality differentiation) | Website copy | [deliverables/DD-3584-faq-usp-quality.md](deliverables/DD-3584-faq-usp-quality.md) |
 
 ---
 
