@@ -20,7 +20,7 @@ Great speaking today. Here's a recap of what we covered and what's coming next.
 
 **GMB dynamic dashboard.** We explained how the GMB dashboard will work — tracking calls, messages, and visits coming directly from the Google listing, alongside keyword data. You'll be able to see month-on-month whether the listing is driving more actions, not just traffic.
 
-**Email notifications — Resend tool.** We mentioned a tool called Resend that makes it easy to set up automated email notifications (like form submission confirmations) without going to spam. We'll send you a link and show how we've used it for other clients — worth exploring for the website form auto-reply.
+**Email notifications — Resend tool.** We shared a tool called Resend (resend.com) — it's a great option for any notifications or emails you're looking to send from the website, including form submission confirmations. It's built to land in the inbox rather than spam, which is a common issue with standard email setups. Well worth exploring — you can have a look at resend.com when you get a chance.
 
 **Social media.** Currently Imago doesn't have much active social posting. We're going to start blending content into the relevant communities across social channels, which will support both LLM visibility and overall brand presence. Lucy joining today was great — will be helpful to have her involved as we build this out.
 
