@@ -2,27 +2,18 @@ Subject: MOM — Imago Photography Weekly Sync | 3 June 2026
 
 Hi Will,
 
-Great speaking today. Here's a recap of what we covered and what's coming next.
+Great speaking today. Quick recap below.
 
----
+**What we covered:**
 
-**What we discussed:**
-
-**LLM visibility — the bigger picture.** SEO is changing significantly. It's no longer just about Google rankings — it's about being visible wherever people and AI tools are looking. ChatGPT, Perplexity, and Google AI Overviews are now pulling answers from across the web, including social channels, Quora, Reddit, and third-party sites. We're building Imago's presence across all of these, which will have a compounding effect on both traditional SEO and AI visibility. This is what we're now calling AEO (Answer Engine Optimisation) and GEO (Generative Engine Optimisation).
-
-**FAQs and blogs — drafts coming next week.** We're writing the full FAQ answers and the first two blog drafts (*How to choose the right school photographer in the UK* and *GDPR and school photography in 2026*). You'll have both to review by next week. When reviewing, please flag anything that doesn't align with Imago's voice or practices — we'll adjust accordingly. We're also building Imago's writing style into our process so future content sounds like you.
-
-**Blog cadence agreed — 2 per month.** The plan is: first half of the month we write and share for approval, second half we publish on the website. We'll add dates and topic titles to the tracker today so you can see the full schedule for the next few months.
-
-**Quora — Damco is handling this.** We checked whether Laura had posted anything on Quora — she hasn't yet, so there's no duplication. We'll proceed with our warmed-up account and share links to every answer we post so you can review them. We'll also share the account access with your team.
-
-**GMB access — switching to Ashish.** We're removing Harshit's GMB access and moving it to Ashish's official Damco email so he can manage the listing and dashboard directly. Please update this when you get a chance.
-
-**GMB dynamic dashboard.** We explained how the GMB dashboard will work — tracking calls, messages, and visits coming directly from the Google listing, alongside keyword data. You'll be able to see month-on-month whether the listing is driving more actions, not just traffic.
-
-**Email notifications — Resend tool.** We shared a tool called Resend (resend.com) — it's a great option for any notifications or emails you're looking to send from the website, including form submission confirmations. It's built to land in the inbox rather than spam, which is a common issue with standard email setups. Well worth exploring: https://resend.com
-
-**Social media.** Currently Imago doesn't have much active social posting. We're going to start blending content into the relevant communities across social channels, which will support both LLM visibility and overall brand presence. Lucy joining today was great — will be helpful to have her involved as we build this out.
+- **LLM / AI visibility** — SEO now extends beyond Google. We're building Imago's presence across ChatGPT, Perplexity, AI Overviews, Quora, Reddit, and social — this is AEO and GEO working alongside traditional SEO.
+- **FAQs and blogs** — Drafts for all 10 FAQ answers and the first two blogs coming to you by next week for review.
+- **Blog cadence** — 2 per month. First half: write and get approval. Second half: publish. We'll add the full schedule to the tracker today.
+- **Quora** — Laura hasn't posted yet, so no duplication. Damco will handle posting and share links with your team.
+- **GMB access** — Please move access from Harshit to Ashish's official Damco email.
+- **GMB dashboard** — Will show calls, messages, and visits from your Google listing month on month.
+- **Resend tool** — Good option for website email notifications (form confirmations etc.) that avoids spam. Worth a look: https://resend.com
+- **Social media** — We'll start building Imago's community presence across channels to support LLM visibility.
 
 ---
 
@@ -30,17 +21,13 @@ Great speaking today. Here's a recap of what we covered and what's coming next.
 
 | # | Action | Owner |
 |---|---|---|
-| 1 | Share FAQ answer drafts (all 10) with Will for review | Ashish |
-| 2 | Share blog drafts — Topics 1 and 4 — with Will for review | Ashish |
-| 3 | Add dates and topic titles for all upcoming blogs to tracker | Ashish (today) |
+| 1 | Share FAQ answer drafts (all 10) | Ashish |
+| 2 | Share blog drafts — Topics 1 and 4 | Ashish |
+| 3 | Add blog schedule with dates to tracker | Ashish (today) |
 | 4 | Share Quora account access with Will's team | Ashish |
-| 5 | Share links to all Quora answers posted | Ashish |
-| 6 | Send Resend tool link and usage example to Will/Ben | Harshit |
-| 7 | Complete and share AI/GMB dynamic dashboard | Harshit |
-| 8 | Remove Harshit's GMB access, add Ashish's official Damco email | Will |
-| 9 | Review Resend tool for website form auto-reply | Will / Ben |
-
----
+| 5 | Complete and share AI/GMB dynamic dashboard | Harshit |
+| 6 | Remove Harshit's GMB access, add Ashish's Damco email | Will |
+| 7 | Review Resend for website form auto-reply | Will / Ben |
 
 Speak soon.
 
