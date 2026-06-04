@@ -2,11 +2,24 @@
 
 > Factual observations from meetings and interactions. No interpretation.
 > Includes: approvals, pushbacks, preferences, constraints, and audience intelligence.
-> **Last Updated**: 2026-05-27
+> **Last Updated**: 2026-06-03
 
 ---
 
 <!-- Entries go below this line. Most recent first. Format: date + bullets. -->
+
+**3 June 2026 — Weekly Sync #4 (Will Cardwell, Nix Cardwell, Ben Kind, Lucy, Senthil)**
+- Will and team receptive to LLM/AEO/GEO visibility strategy — no pushback; agreed to proceed
+- Lucy is now attending weekly calls — handles design and internal comms (built the email signature); key contact for social and QR code work
+- Senthil confirmed website is hosted on WordPress
+- Laura has not posted anything on Quora — Damco can proceed without any duplication risk
+- Will is open to Resend for email notifications — asked to see the link and usage examples
+- Will agreed to update GMB access: remove Harshit, add Ashish's official Damco email
+- Client has very little active social media presence — open to Damco building community presence on their behalf
+- Client comfortable with Damco writing FAQs and blogs first, then reviewing — no desire to write themselves
+- Hard deadline: FAQ answers and blog drafts expected by 10 June — treated as firm commitment
+- Blog cadence agreed: 2 per month; client accepted the process (first half write/approve, second half publish)
+- Client wants to see a blog timeline with dates and titles so they know what's coming each month
 
 **27 May 2026 — Weekly Sync #3 (Will Cardwell, Nix Cardwell, Ben Kind)**
 - Will confirmed GA4 conversion tracking is live and visible to him — engaged with it directly, positive signal
