@@ -18,9 +18,11 @@ Quick update before we speak tomorrow — a few things done and one thing I need
 
 ---
 
-**One thing I need from you:**
+**Two things I need from you:**
 
-I currently have Manager-level access on GMB, which doesn't allow me to generate the QR code for the Google review link. Could you either upgrade my access to Owner level, or generate and share the QR code from your end? This is needed so we can add it to the email signature as discussed.
+- **GMB access** — I currently have Manager-level access, which doesn't allow me to generate the QR code for the Google review link. Could you either upgrade my access to Owner level, or generate and share the QR code from your end? This is needed so we can add it to the email signature as discussed.
+
+- **Blog topics approval** — We have a few blog topics listed in the on-page tracker that are pending your sign-off. Could you please review and approve these before our call tomorrow? Once approved, we'll add the due dates and get writing straight away.
 
 ---
 
