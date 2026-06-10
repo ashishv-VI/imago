@@ -10,27 +10,22 @@
 
 | # | Action | Owner | Source | Due | Status |
 |---|---|---|---|---|---|
-| 1 | Update website copy with "high-resolution" / "HD quality images" language | Ashish | Weekly Sync 2026-05-12 | Overdue | In Progress |
-| 2 | Write full FAQ answers (all 10) and share with Will for review | Ashish | Weekly Sync 2026-06-03 | Before 10 June | Open |
-| 3 | Write blog Topic 1: How to choose the right school photographer in the UK | Ashish | Weekly Sync 2026-05-27 | Before 10 June | Open |
-| 4 | Write blog Topic 4: GDPR and school photography in 2026 | Ashish | Weekly Sync 2026-05-27 | Before 10 June | Open |
-| 5 | Add dates and topic titles for all upcoming blogs to tracker | Ashish | Weekly Sync 2026-06-03 | Today | Open |
-| 6 | Share Quora account access/login with Will's team | Ashish | Weekly Sync 2026-06-03 | This week | Open |
-| 7 | Share links to Quora answers posted by Damco | Ashish | Weekly Sync 2026-06-03 | Ongoing | Open |
-| 8 | Generate GMB QR code and share with Nix/Lucy | Ashish | Weekly Sync 2026-05-27 | This week | Open |
-| 9 | Add year-on-year traffic comparison to reporting doc | Ashish | Weekly Sync 2026-05-12 | Next call | Open |
-| 10 | Add monthly top landing pages tracker to reporting | Ashish | Weekly Sync 2026-05-12 | Next call | Open |
-| 11 | Publish off-page content (blogs + third-party sites) using USP keywords | Ashish | Weekly Sync 2026-05-12 | Ongoing | Open |
-| 12 | Send Resend tool link and usage example to Will/Ben | Harshit | Weekly Sync 2026-06-03 | ASAP | Open |
-| 13 | Complete and share AI/GMB dynamic dashboard with Will | Harshit | Weekly Sync 2026-05-12 | Overdue | Open |
-| 14 | Send competitor analysis presentation to Will | Harshit | Weekly Sync 2026-05-12 | Overdue | Open |
-| 15 | Share homepage CTA optimisation plan with Will | Harshit | Weekly Sync 2026-05-12 | Overdue | Open |
-| 16 | Remove Harshit's GMB access, add Ashish's official Damco email | Will | Weekly Sync 2026-06-03 | ASAP | Open |
-| 17 | Review Resend tool for website form auto-reply | Will / Ben | Weekly Sync 2026-06-03 | This week | Open |
-| 18 | Send social media links (Instagram, Facebook, YouTube) to Ashish | Will | Weekly Sync 2026-05-12 | Chased x2 | Waiting on Will |
-| 19 | Confirm GMB founding date (month + year) | Will | Weekly Sync 2026-05-12 | Chased x2 | Waiting on Will |
-| 20 | Client review and sign-off on 10 FAQ answers | Will | Weekly Sync 2026-06-03 | After Damco draft | Waiting on Damco |
-| 21 | Client review and sign-off on blog drafts (Topics 1 + 4) | Will | Weekly Sync 2026-06-03 | After Damco draft | Waiting on Damco |
+| 1 | Highlight must-have FAQ questions in green in shared doc | Ashish | Weekly Sync 2026-06-10 | ASAP | Open |
+| 2 | Deliver blog draft — GDPR and school photography in 2026 | Ashish | Weekly Sync 2026-06-10 | 13 June — hard deadline | Open |
+| 3 | Deliver blog draft — Why Choose Imago Photography | Ashish | Weekly Sync 2026-06-10 | 13 June — hard deadline | Open |
+| 4 | Upload both blogs to website with images once approved | Ashish | Weekly Sync 2026-06-10 | This month | Open |
+| 5 | Post next Quora answer (one per week cadence) | Ashish | Weekly Sync 2026-06-10 | This week | Open |
+| 6 | Share Quora answer links with Will's team | Ashish | Weekly Sync 2026-06-10 | Ongoing | Open |
+| 7 | Generate / obtain GMB QR code and share with Nix/Lucy | Ashish | Weekly Sync 2026-05-27 | ASAP | Open |
+| 8 | Add year-on-year traffic comparison to reporting doc | Ashish | Weekly Sync 2026-05-12 | Next call | Open |
+| 9 | Complete and share AI/GMB dynamic dashboard | Harshit | Weekly Sync 2026-05-12 | Overdue | Open |
+| 10 | Send competitor analysis presentation to Will | Harshit | Weekly Sync 2026-05-12 | Overdue | Open |
+| 11 | Share homepage CTA optimisation plan with Will | Harshit | Weekly Sync 2026-05-12 | Overdue | Open |
+| 12 | Review highlighted FAQs and confirm which to keep | Will | Weekly Sync 2026-06-10 | Before 17 June | Open |
+| 13 | Ask unknown callers where they found the business | Will's team | Weekly Sync 2026-06-10 | Ongoing | Open |
+| 14 | Send social media links (Instagram, Facebook, YouTube) | Will | Weekly Sync 2026-05-12 | Chased x3 | Waiting on Will |
+| 15 | Confirm GMB founding date (month + year) | Will | Weekly Sync 2026-05-12 | Chased x3 | Waiting on Will |
+| 16 | Upgrade Ashish GMB access to Owner level | Will | Email 2026-06-10 | ASAP | Waiting on Will |
 
 ---
 
@@ -49,12 +44,13 @@
 
 | Item | Completed | Notes |
 |---|---|---|
-| Client approval on blog topics 1–4 | 2026-05-27 | Topics 1–4 approved; topic 5 (leavers) dropped |
-| Client approval on 10 FAQ question list | 2026-05-27 | All 10 questions confirmed fine |
-| Quora account warm-up | 2026-05-21 | Damco account active — posting begins w/c 2 June; Laura has not posted (confirmed 2026-06-03) |
-| Set up GA4 event goals — inquiry + booking form tracking | 2026-05-21 | Live and confirmed by Will |
-| GMB description updated with HD / high-resolution language | 2026-05-12 | Live |
+| FAQ answers written (all 10) | 2026-06-09 | Shared with Will; amended and approved. FAQ #9 to be removed |
+| Client approval on blog topics 1–4 | 2026-05-27 | Topics 1–4 approved; topic 5 dropped |
+| First Quora answer posted | 2026-06-10 | Live — two more approved and queued |
+| GMB QR code received from Will | 2026-06-10 | Received via email — share with Nix/Lucy for signature |
+| LLM / AEO / GEO strategy presented | 2026-06-03 | Client receptive |
+| Blog cadence agreed — 2 per month | 2026-06-03 | First half write/approve, second half publish |
+| GA4 event goals — inquiry + booking form | 2026-05-21 | Live and confirmed by Will |
+| GMB description updated with HD language | 2026-05-12 | Live |
 | Google Business Profile updated (client side) | 2026-05-27 | Will confirmed on call |
-| LLM / AEO / GEO visibility strategy presented to client | 2026-06-03 | Will and team receptive — agreed to proceed |
-| Weekly update email sent to Will (no-call week) | 2026-05-21 | See emails/2026-05-21-weekly-update-v2.md |
-| Blog cadence agreed — 2 per month | 2026-06-03 | First half write + approve, second half publish |
+| Weekly update email sent (no-call week) | 2026-05-21 | See emails/2026-05-21-weekly-update-v2.md |
