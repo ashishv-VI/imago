@@ -2,7 +2,7 @@
 
 > What needs to happen, who owns it, and where things stand.
 > Updated automatically after every meeting transcript is processed.
-> **Last Updated**: 2026-06-03
+> **Last Updated**: 2026-06-10
 
 ---
 

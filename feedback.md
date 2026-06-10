@@ -2,11 +2,18 @@
 
 > Factual observations from meetings and interactions. No interpretation.
 > Includes: approvals, pushbacks, preferences, constraints, and audience intelligence.
-> **Last Updated**: 2026-06-03
+> **Last Updated**: 2026-06-10
 
 ---
 
 <!-- Entries go below this line. Most recent first. Format: date + bullets. -->
+
+**10 June 2026 — Email reply (Will Cardwell)**
+- Will sent the GMB QR code (barcode) — received, ready to share with Nix/Lucy for email signature
+- Will has reviewed and amended the FAQ answers — approved with amendments
+- All blog topics approved except FAQ/topic #9 ("What if parents or schools are not happy with the photos?") — Will asked for this to be removed
+- Will flagged Quora answer: not sure Ben Kind should be described as a "professional photographer" (capitalised "PhotoGrapher") — said it should be ok but worth checking the wording
+- Will signed off as Managing Director, Imago Portrait Studios Ltd
 
 **3 June 2026 — Weekly Sync #4 (Will Cardwell, Nix Cardwell, Ben Kind, Lucy, Senthil)**
 - Will and team receptive to LLM/AEO/GEO visibility strategy — no pushback; agreed to proceed
