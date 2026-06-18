@@ -225,6 +225,8 @@ When the user says "status" or "where are we":
 - Action items: specific and owned. No vague tasks.
 - Brief updates: factual, no interpretation. Just what was said or observed.
 - UK English spelling in all client-facing documents.
+- No emojis, icons, or AI-style formatting in emails or conversation responses — plain professional text only.
+- No bullet walls with emoji prefixes (e.g. ✅ 🔴 🟡) in client-facing emails — use plain text or simple bold headers.
 
 ### Account-Specific Rules — Imago Photography
 
