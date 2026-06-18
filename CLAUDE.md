@@ -226,6 +226,13 @@ When the user says "status" or "where are we":
 - Brief updates: factual, no interpretation. Just what was said or observed.
 - UK English spelling in all client-facing documents.
 
+### Account-Specific Rules — Imago Photography
+
+- **Damco writes, client publishes.** FAQs and blogs are written by Damco and shared with Will for review. Publishing to the website is always done by Imago's team (Senthil / Laura) — NEVER say Damco will upload or publish to the website.
+- **Do not mention traffic in every email or call brief** — Will has flagged this as repetitive. Only include traffic data when specifically requested or when there is a significant change to report.
+- **Blog topics must be approved by Will before writing begins** — never start writing a blog without confirmed client approval on the topic.
+- **FAQ answers must be reviewed by Will before going live** — share as a draft, wait for sign-off.
+
 ---
 
 ## SEO Module
