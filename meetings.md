@@ -2,12 +2,13 @@
 
 > One entry per meeting. Most recent at the top.
 > After each meeting, paste transcript here or into `transcripts/` folder, then say "process transcript."
-> **Last Updated**: 2026-06-17
+> **Last Updated**: 2026-06-24
 
 ---
 
 | Date | Type | Attendees | MOM Link |
 |---|---|---|---|
+| 2026-06-24 | Weekly Sync #7 | Ashish Vishal, Harshit Kaushik, Will Cardwell, Nix Cardwell | [moms/2026-06-24/](moms/2026-06-24/mom.md) |
 | 2026-06-17 | Weekly Sync #6 | Ashish Vishal, Harshit Kaushik, Will Cardwell, Ben Kind | [moms/2026-06-17/](moms/2026-06-17/mom.md) |
 | 2026-06-10 | Weekly Sync #5 | Ashish Vishal, Harshit Kaushik, Will Cardwell | [moms/2026-06-10/](moms/2026-06-10/mom.md) |
 | 2026-06-03 | Weekly Sync #4 | Ashish Vishal, Harshit Kaushik, Will Cardwell, Nix Cardwell, Ben Kind, Lucy, Senthil | [moms/2026-06-03/](moms/2026-06-03/mom.md) |

@@ -8,6 +8,15 @@
 
 <!-- Entries go below this line. Most recent first. Format: date + bullets. -->
 
+**24 June 2026 — Weekly Sync #7 (Nix Cardwell, Will Cardwell)**
+- Nix engaged actively with the form prototype walkthrough — no objections raised
+- Will asked whether button-click tracking could serve as the primary conversion signal instead of a Thank You page — preference for minimal website changes where possible
+- Will accepted the explanation that click tracking overcounts and confirmed they are happy to proceed with CAPTCHA and Thank You pages
+- Will confirmed they are comfortable with CAPTCHA — "that sounds fine to us"
+- No pushback on Reddit activity — Nix confirmed understanding of the Quora + Reddit LLM visibility strategy without needing further explanation
+- Will confirmed they want Reddit questions shared with the team before answers are drafted — same approval process as Quora
+- Overall tone: efficient, low friction — meeting moved quickly and both sides aligned on all points
+
 **10 June 2026 — Email reply (Will Cardwell)**
 - Will sent the GMB QR code (barcode) — received, ready to share with Nix/Lucy for email signature
 - Will has reviewed and amended the FAQ answers — approved with amendments
