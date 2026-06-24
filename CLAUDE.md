@@ -218,7 +218,7 @@ When the user says "status" or "where are we":
 
 ## Style Rules
 
-- MOM emails: professional, warm, concise. Client-ready as-is.
+- MOM emails: short. One short paragraph per topic, no more. Action table at the end. Client-ready as-is.
 - No jargon in client emails — write in plain English that Will can understand without an SEO background.
 - All recommendations must be data-backed — cite the metric or source, never make claims without evidence.
 - What we discussed: short bold headers per topic, one crisp paragraph each. Not bullet walls.
