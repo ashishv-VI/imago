@@ -250,8 +250,9 @@ Use this every time an email to Will is drafted. Apply all rules below without b
 
 ### Structure
 - Short greeting — "Hi Will," only. No "I hope this email finds you well" or long openers.
-- One short paragraph per topic. Bold header for each topic.
-- Action table at the end if there are multiple owners or deadlines.
+- Plain paragraphs only. No bold headers, no bullet points, no structured formatting — write like a human, not a report.
+- Each topic flows naturally in its own short paragraph.
+- Action table only when there are multiple owners or deadlines that genuinely need a table.
 - Sign off: Best, / Ashish / Damco Digital — nothing else.
 
 ### Length
