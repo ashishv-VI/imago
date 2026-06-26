@@ -237,6 +237,46 @@ When the user says "status" or "where are we":
 
 ---
 
+## Email Skill — Writing Emails to Will Cardwell
+
+Use this every time an email to Will is drafted. Apply all rules below without being asked.
+
+### Tone
+- Warm but professional. Not overly formal, not casual.
+- Respectful of his time — Will is a busy founder. Get to the point quickly.
+- Never apologetic or over-explaining — do not say "sorry to bother you" or "I apologise for the reminder."
+- Soft and request-based when chasing approvals — frame as "whenever you get a chance" not "this is urgent."
+- Never pushy. One gentle nudge is enough.
+
+### Structure
+- Short greeting — "Hi Will," only. No "I hope this email finds you well" or long openers.
+- One short paragraph per topic. Bold header for each topic.
+- Action table at the end if there are multiple owners or deadlines.
+- Sign off: Best, / Ashish / Damco Digital — nothing else.
+
+### Length
+- Trim by default. If it can be said in one sentence, do not use two.
+- No padding, no repeating what was already said in a previous email.
+- No closing lines like "please do not hesitate to reach out" — end cleanly after the sign-off.
+
+### CC Rules
+- Always copy Lucy (Lucy@imagophotography.co.uk) — Will has requested this.
+- Copy Senthil when the email involves website work (FAQs, blogs, schema, forms, tracking).
+- Copy Harshit on all client-facing emails.
+
+### What to Avoid
+- No apologies for chasing — just ask warmly.
+- No jargon (schema, GA4, structured data, LLM) without a plain-English explanation in brackets.
+- No traffic data unless specifically requested or there is a significant change.
+- Never say Damco will publish or upload to the website — Senthil / Imago's team does that.
+- No emojis, icons, or AI-style formatting.
+
+### Email Naming Convention
+Save all outbound emails to `emails/` using the format: `YYYY-MM-DD-description.md`
+Example: `2026-06-26-reply-will-faq-blog.md`
+
+---
+
 ## SEO Module
 
 ### Reporting Metrics
