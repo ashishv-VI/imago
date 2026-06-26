@@ -2,22 +2,20 @@ Subject: Quick Update — FAQs and Blog Drafts | Imago Photography
 
 Hi Will,
 
-Hope you are well and things are going smoothly at your end.
+Hope you are keeping well. I appreciate how busy things can get, so I am sorry to add to your plate.
 
-I just wanted to touch base on a couple of items when you get a moment. I completely understand things get busy, so no pressure at all — just wanted to keep you in the loop.
+Whenever you have a quiet moment, it would be really helpful if you could take a look at the items below. There is absolutely no rush — just wanted to gently check in as your feedback is needed before we can move things forward.
 
 **FAQs.**
-The FAQ answers are ready on our side. Whenever you have a chance to cast an eye over them and share any thoughts, we can take it from there.
+These are ready and waiting for your review. Even a quick read-through and a thumbs up would be great — we will take it from there.
 
 **Blog 1.**
-The first blog draft was shared with you on 16 June. If you have had a chance to look at it, do let us know if anything needs adjusting or if you are happy for us to move forward.
+This was shared with you on 16 June. If there is anything you would like us to adjust, we are happy to make changes. Or if it all looks good, just let us know and we will proceed.
 
 **Blog 2.**
-I have also attached the second blog for your review. Again, no rush — whenever suits you.
+I have attached the second blog as well. Please do take a look whenever it suits you and share any feedback at your convenience.
 
-Once we have your thoughts on these, we will be all set to move ahead with the next steps.
-
-Thank you as always, Will. Looking forward to hearing from you.
+We really appreciate your time, Will, and we are grateful for your continued support. Looking forward to hearing from you when you get a chance.
 
 Best,
 Ashish
