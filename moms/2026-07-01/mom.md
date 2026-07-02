@@ -16,6 +16,9 @@ Both topics confirmed — "Why Professional School Photography Matters" and "Why
 **Content calendar.**
 Yearbook content moved to September. Minimal posting in August while schools are closed, picking up again from late August.
 
+**Summer camp photography — blog idea.**
+We have a blog topic idea we would like to run by you — a piece around summer camp and outdoor activity programme photography, which could sit nicely in the September content plan. Before we go ahead, we just want to confirm whether this is a service Imago offers or would consider. Please let us know whenever you get a chance.
+
 ---
 
 **Actions before our next call (8 July 2026):**
