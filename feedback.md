@@ -8,6 +8,15 @@
 
 <!-- Entries go below this line. Most recent first. Format: date + bullets. -->
 
+**1 July 2026 — Weekly Sync #8 (Will Cardwell)**
+- Will approved "Why Professional School Photography Matters" for July without objection
+- Will agreed "Why School Photography Matters / What to Look for in a New Photographer" is well suited for July ahead of September
+- Team requested keywords be highlighted in documents so editors do not inadvertently remove them — requirement for all shared content going forward
+- Team flagged care should be taken not to give away strategic information to competitors in third-party articles
+- Team open to Medium and third-party platform publishing strategy — no pushback
+- Positive website enquiry received — team hopeful volume will increase
+- Will to send corrected blog content for "How to Choose a School Photographer in the UK"
+
 **24 June 2026 — Weekly Sync #7 (Nix Cardwell, Will Cardwell)**
 - Nix engaged actively with the form prototype walkthrough — no objections raised
 - Will asked whether button-click tracking could serve as the primary conversion signal instead of a Thank You page — preference for minimal website changes where possible
