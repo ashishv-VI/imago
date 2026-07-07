@@ -2,17 +2,21 @@ Subject: Quick Update — Imago Photography
 
 Hi Will,
 
-Hope you are well. A few quick updates from our side.
+Hope you are well. A few updates from our side this week.
 
-We have posted two new answers on Quora this week — one on how large schools are photographed in a single day, and one on how parents can prepare kids for school picture day.
+Two new Quora answers posted — one on how large schools are photographed in a single day, and one on how parents can prepare kids for school picture day.
 
-We have also shared three Reddit questions with you for review. Please do let us know if you are happy for us to post answers on those.
+On Reddit, we shared three questions with you in our last email for your review and approval before we post. Just flagging these again below in case they got missed:
 
-The keywords have been added to all the third-party blog documents, so those are ready to go.
+1. r/photography — school photography discussion: https://www.reddit.com/r/photography/comments/1l9p3tc/school_photography/
+2. r/Nikon — award-winning photography (we can share Imago's images here): https://www.reddit.com/r/Nikon/comments/1ru8itf/photographs_which_made_me_win_the_photography/
+3. r/UKParenting — UK parents discussing school photo packages: https://www.reddit.com/r/UKParenting/comments/1lr2bfl/what_do_you_guys_usually_get_when_it_comes_to/
 
-We have set up the Medium account on Imago's behalf and will share the login details with you shortly.
+Please let us know if you are happy for us to go ahead on any of these.
 
-We have followed up with Senthil on Blog 1 — just waiting to hear back on when it will be live. We will keep you posted.
+We have also added keywords to all the third-party blog documents and set up the Medium account on Imago's behalf — will share the login details with you shortly.
+
+We have followed up with Senthil on Blog 1 and are waiting to hear back on when it will be live.
 
 Best,
 Ashish
