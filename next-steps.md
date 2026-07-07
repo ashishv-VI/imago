@@ -13,7 +13,7 @@
 | 1 | Push website fixes live (form links + submit button class) | Senthil | Weekly Sync 2026-07-01 | ASAP | Open |
 | 2 | Update GA4 conversion tracking once Senthil confirms fixes are live | Ashish | Weekly Sync 2026-07-01 | On confirmation | Open |
 | 3 | Add primary and secondary keywords to all blog topics in shared document | Ashish | Weekly Sync 2026-07-01 | 8 July 2026 | Open |
-| 4 | Create Medium account for Imago and share login details with team | Ashish | Weekly Sync 2026-07-01 | 8 July 2026 | Open |
+| 4 | Share Medium account login details with Will's team | Ashish | Weekly Sync 2026-07-01 | 8 July 2026 | Open |
 | 5 | Republish existing Imago blogs on Medium with backlinks to main site | Ashish | Weekly Sync 2026-07-01 | 8 July 2026 | Open |
 | 6 | Review blog topics and recommend best keyword opportunities for downtime | Harshit | Weekly Sync 2026-07-01 | 8 July 2026 | Open |
 | 7 | Send updated blog content for "How to Choose a School Photographer in the UK" | Will | Weekly Sync 2026-07-01 | ASAP | Waiting on Will |

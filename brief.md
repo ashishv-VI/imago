@@ -71,6 +71,11 @@
 
 <!-- Entries go below this line. Most recent first. -->
 
+**[2026-07-07 update]**
+- Medium account created for Imago by Damco: https://medium.com/@MarketingSupport_61400
+- Will confirmed summer camp photography is not an Imago service — do not use in content
+- Will confirmed all third-party platform posts (Medium, Vocal.media, Reddit, Quora) must be shared for approval before going live
+
 **[2026-05-12 update]**
 - Organic traffic has grown from ~200 visits/month (January 2026) to ~4,500 — approximately 20–25% month-on-month growth
 - Will asked for YoY comparison to confirm growth is real, not seasonal — this is now a reporting requirement
