@@ -19,7 +19,7 @@ Please let us know if you are happy for us to go ahead on any of these.
 
 We have also added keywords to all the third-party blog documents and set up the Medium account on Imago's behalf — will share the login details with you shortly.
 
-We have followed up with Senthil on Blog 1 and are waiting to hear back on when it will be live.
+Blog 1 is ready to go — we will be following up with Senthil to get it live on the website shortly.
 
 Best,
 Ashish
