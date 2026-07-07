@@ -237,6 +237,7 @@ When the user says "status" or "where are we":
 - **All third-party content must be approved by Will before publishing** — Medium, Vocal.media, Reddit, Quora, or any other platform. Share the draft, wait for sign-off. Nothing goes live without approval.
 - **Summer camp photography is not an Imago service** — do not suggest or write content around this topic.
 - **Copy Nix into all emails to Senthil** — Will has requested this.
+- **Never address Senthil inside an email written to Will** — if Senthil needs to be contacted, send him a separate email with Nix and Will CC'd. Mixing audiences in one email causes confusion.
 
 ---
 
