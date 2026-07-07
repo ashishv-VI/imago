@@ -234,6 +234,9 @@ When the user says "status" or "where are we":
 - **Do not mention traffic in every email or call brief** — Will has flagged this as repetitive. Only include traffic data when specifically requested or when there is a significant change to report.
 - **Blog topics must be approved by Will before writing begins** — never start writing a blog without confirmed client approval on the topic.
 - **FAQ answers must be reviewed by Will before going live** — share as a draft, wait for sign-off.
+- **All third-party content must be approved by Will before publishing** — Medium, Vocal.media, Reddit, Quora, or any other platform. Share the draft, wait for sign-off. Nothing goes live without approval.
+- **Summer camp photography is not an Imago service** — do not suggest or write content around this topic.
+- **Copy Nix into all emails to Senthil** — Will has requested this.
 
 ---
 
