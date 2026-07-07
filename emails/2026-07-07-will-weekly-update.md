@@ -4,7 +4,10 @@ Hi Will,
 
 Hope you are well. A few updates from our side this week.
 
-Two new Quora answers posted — one on how large schools are photographed in a single day, and one on how parents can prepare kids for school picture day.
+Two new Quora answers posted this week:
+
+1. How are large schools photographed in a single day?
+2. How can parents prepare kids for school picture day?
 
 On Reddit, we shared three questions with you in our last email for your review and approval before we post. Just flagging these again below in case they got missed:
 
