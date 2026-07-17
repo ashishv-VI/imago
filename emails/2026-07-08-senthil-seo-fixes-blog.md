@@ -2,7 +2,7 @@ Subject: SEO Fixes Required — Blog Article | How to Choose a School Photograph
 
 Hi Senthil,
 
-Please make the following changes to this page:
+I have attached a document with all the changes required for the blog article below. Please make the following updates to this page:
 URL: https://www.imagophotography.co.uk/services/photography-blog/how-to-choose-school-photography-company-uk
 
 Heading structure:
