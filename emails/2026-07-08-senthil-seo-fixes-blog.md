@@ -2,9 +2,9 @@ Subject: SEO Audit — Blog Fixes Required | How to Choose a School Photography 
 
 Hi Senthil,
 
-Hope you are well. Our team has completed an SEO audit of the blog article that is now live on the Imago website. As part of our work to improve rankings and visibility, we review published content against current search engine guidelines, and we have identified a few technical issues on this page that need to be addressed.
+Hope you are well. I have audited the blog article that is now live on the Imago website. As part of my SEO review, I check published pages against search engine guidelines to make sure everything is set up correctly for rankings, and I have found a few technical issues on this page that need to be fixed.
 
-These are not major changes, but they are important — without fixing them, the page will struggle to rank well in search results regardless of how good the content is.
+These are not major changes, but they are important — without addressing them, the page will struggle to rank well regardless of how good the content is.
 
 Page: https://www.imagophotography.co.uk/services/photography-blog/how-to-choose-school-photography-company-uk
 
