@@ -1,34 +1,30 @@
-Subject: SEO Fixes Required — Blog Article | How to Choose a School Photography Company
+Subject: SEO Audit — Blog Fixes Required | How to Choose a School Photography Company
 
 Hi Senthil,
 
-I have attached a document with all the changes required for the blog article below. Please make the following updates to this page:
-URL: https://www.imagophotography.co.uk/services/photography-blog/how-to-choose-school-photography-company-uk
+Hope you are well. Our team has completed an SEO audit of the blog article that is now live on the Imago website. As part of our work to improve rankings and visibility, we review published content against current search engine guidelines, and we have identified a few technical issues on this page that need to be addressed.
 
-Heading structure:
-- Remove the extra H1 tags — page should have only 1 H1
-- Change the article title from H3 to H2
-- Update all section headings from H3 to H2
+These are not major changes, but they are important — without fixing them, the page will struggle to rank well in search results regardless of how good the content is.
 
-Internal links — please add the following links to the article body:
-- "School photography company in the UK" → /services/about
-- "Schools and nurseries" → /services/preschool-photographers
-- "Safeguarding policy / DBS certificate" → /services/faqs
-- "Staged whole school shoots" → /services/staged-group-photography
-- "Promotional images, videos" → /services/school-promotional-videos
-- "Yearbooks" → /services/school-yearbooks
-- "Digital downloads / secure family accounts" → /services/gallery
-- "Package can be structured for your needs" → /services/school-photography
-- "Rated 4.9 out of 5" → /services/testimonials
-- "News and Insights" → /services/photography-blog
+Page: https://www.imagophotography.co.uk/services/photography-blog/how-to-choose-school-photography-company-uk
 
-Images:
-- Add alt text to the 2 footer trust badge images
+Errors found and why they need to be fixed:
 
-Schema:
-- Please add the following schema code to the page header. I have attached it separately.
+- 3 H1 tags on the page (should only be 1) — multiple H1s confuse search engines about what the page is about and split ranking signals
+- Article title coded as H3 instead of H2 — heading hierarchy must flow H1 → H2 → H3; incorrect structure reduces how well search engines read the content
+- All section headings are H3 with no H2 used — same reason as above; the page jumps from H1 straight to H3 with no H2, which breaks the structure
+- Only 1 internal link in the entire article — internal links help search engines discover other pages on the site and pass authority; we have identified 10 additional relevant pages that should be linked from this article
+- No outbound links — search engines expect authoritative content to reference credible sources, particularly on trust-sensitive topics like safeguarding
+- Title tag is 74 characters (recommended maximum is 60) — longer titles get cut off in search results
+- Meta description is 122 characters (recommended minimum is 150–160) — short descriptions reduce click-through rates
+- 2 images are missing alt text — alt text helps search engines understand images and is also required for accessibility
+- No Article schema on the page — schema helps search engines understand the content type and can improve how the page appears in results
 
-Please let me know if you need anything from my side.
+I have attached the full audit report, which includes the keyword intent mapping (what each section is targeting and why) and the schema code that needs to be added to the page header.
+
+Please do let me know if you have any questions or need anything from my side — happy to jump on a quick call if that would help.
+
+Thank you, Senthil.
 
 Best,
 Ashish
