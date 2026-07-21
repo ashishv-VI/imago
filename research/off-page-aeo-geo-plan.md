@@ -18,7 +18,7 @@
 | 8 | Profile creations on relevant platforms | Off-Page | 5 July 2026 | Open |
 | 9 | Third-party article — first submission live with backlink | Off-Page / GEO | 5 July 2026 | Open |
 | 10 | Reddit posting — second round | Off-Page | 7 July 2026 | Open |
-| 11 | LLM visibility audit — check Imago appearance in ChatGPT, Perplexity, Google AI Overviews | GEO | 7 July 2026 | Open |
+| 11 | LLM visibility audit — check Imago appearance in ChatGPT, Perplexity, Google AI Overviews | GEO | 7 July 2026 | In Progress — framework created, queries to run |
 | 12 | Image submissions to photography and education sites | Off-Page | 12 July 2026 | Open |
 | 13 | Link building prospecting — competitor gap analysis | Off-Page | 12 July 2026 | Open |
 | 14 | Publish long-form authoritative content optimised for LLM citation | AEO / GEO | 14 July 2026 | Open |
