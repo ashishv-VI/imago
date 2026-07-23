@@ -8,6 +8,7 @@
 
 | Date | Type | Attendees | MOM Link |
 |---|---|---|---|
+| 2026-07-22 | Weekly Sync #9 | Ashish Vishal, Harshit Kaushik, Will Cardwell, Laura Morris, Nix Cardwell | [moms/2026-07-22/](moms/2026-07-22/mom.md) |
 | 2026-07-01 | Weekly Sync #8 | Ashish Vishal, Harshit Kaushik, Will Cardwell | [moms/2026-07-01/](moms/2026-07-01/mom.md) |
 | 2026-06-24 | Weekly Sync #7 | Ashish Vishal, Harshit Kaushik, Will Cardwell, Nix Cardwell | [moms/2026-06-24/](moms/2026-06-24/mom.md) |
 | 2026-06-17 | Weekly Sync #6 | Ashish Vishal, Harshit Kaushik, Will Cardwell, Ben Kind | [moms/2026-06-17/](moms/2026-06-17/mom.md) |

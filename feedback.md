@@ -8,6 +8,13 @@
 
 <!-- Entries go below this line. Most recent first. Format: date + bullets. -->
 
+**22 July 2026 — Weekly Sync #9 (Will Cardwell, Laura Morris, Nix Cardwell)**
+- Will and team want audit fixes ranked by impact — they need to know what is critical vs optional to manage their own effort
+- Will echoed Harshit's point on prioritisation unprompted — the previous audit format was too flat and did not help them make decisions
+- Will asked if they can edit and "doctor" the shared activity list — confirmed they want write access, not a read-only document
+- Will said he would complete an outstanding action from the call ("I'll do that later") — exact item unclear from partial transcript
+- Laura Morris attended — active participant; Nix Cardwell also on the call
+
 **1 July 2026 — Weekly Sync #8 (Will Cardwell)**
 - Will approved "Why Professional School Photography Matters" for July without objection
 - Will agreed "Why School Photography Matters / What to Look for in a New Photographer" is well suited for July ahead of September

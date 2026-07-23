@@ -19,6 +19,10 @@
 | Name | Role | Notes |
 |---|---|---|
 | Will Cardwell | Co-founder | Co-founder of both Imago Photography and Imagotech |
+| Laura Morris | Client team | Handles customer follow-up; active on calls; manages Google review outreach targeting Gmail contacts |
+| Nix Cardwell | Client team | Operational contact for review signature and QR code work; attends weekly calls |
+| Senthil Kumar | Web Developer (Imagotech) | Implements all website changes — blogs, schema, fixes, GTM |
+| Lucy | Client team | Handles design and internal comms; attends calls; CC on all emails to Will |
 
 ---
 

@@ -10,6 +10,8 @@
 
 | # | Action | Owner | Source | Due | Status |
 |---|---|---|---|---|---|
+| 14 | Restructure blog audit findings — ranked High / Medium / Low by SEO impact | Ashish | Weekly Sync 2026-07-22 | 29 July 2026 | Open |
+| 15 | Share concise activity breakdown (one-pager) with Will's team — editable format confirmed | Ashish / Harshit | Weekly Sync 2026-07-22 | 29 July 2026 | Open |
 | 1 | Push website fixes live (form links + submit button class) | Senthil | Weekly Sync 2026-07-01 | ASAP | Open |
 | 2 | Update GA4 conversion tracking once Senthil confirms fixes are live | Ashish | Weekly Sync 2026-07-01 | On confirmation | Open |
 | 3 | Add primary and secondary keywords to all blog topics in shared document | Ashish | Weekly Sync 2026-07-01 | 8 July 2026 | Open |
