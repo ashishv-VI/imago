@@ -10,6 +10,12 @@
 
 | # | Action | Owner | Source | Due | Status |
 |---|---|---|---|---|---|
+| 16 | Share monthly dashboard link with Harshit for internal review before sending to client | Ashish | Internal check-in 2026-07-22 | 23 July 2026 | Open |
+| 17 | Propose August blog topics — research keyword opportunities, share with Harshit, then get client approval | Ashish | Internal check-in 2026-07-22 | 23 July 2026 | Open |
+| 18 | SEO review of Simran's blog draft — brief Simran — share reviewed draft with Harshit | Ashish | Internal check-in 2026-07-22 | 23 July 2026 | Open |
+| 19 | Share keyword ranking plan with Harshit | Ashish | Internal check-in 2026-07-22 | 23 July 2026 | Open |
+| 20 | Share master doc access with Simran Kaur | Ashish | Internal check-in 2026-07-22 | 23 July 2026 | Open |
+| 21 | Add due dates to all open Linear items — nothing in progress without a date | Ashish | Internal check-in 2026-07-22 | 23 July 2026 | Open |
 | 14 | Restructure blog audit findings — ranked High / Medium / Low by SEO impact | Ashish | Weekly Sync 2026-07-22 | 29 July 2026 | Open |
 | 15 | Share concise activity breakdown (one-pager) with Will's team — editable format confirmed | Ashish / Harshit | Weekly Sync 2026-07-22 | 29 July 2026 | Open |
 | 1 | Push website fixes live (form links + submit button class) | Senthil | Weekly Sync 2026-07-01 | ASAP | Open |
