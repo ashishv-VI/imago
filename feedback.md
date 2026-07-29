@@ -9,11 +9,16 @@
 <!-- Entries go below this line. Most recent first. Format: date + bullets. -->
 
 **29 July 2026 — Weekly Sync #10 (Will Cardwell, Nix Cardwell, Senthil Kumar, Lucy Holland)**
-- Will said he needs more time to review blogs — not a pushback, a capacity flag
-- Dashboard received positive feedback — "Cool, brilliant stuff"
-- Will agreed to review Blog 2 via the shared link and will sort it quickly if possible
-- Blogs held to a higher standard than Quora — must reflect Imago's brand; style and content are a priority (confirmed in pre-call email)
-- Lucy Holland confirmed as full name
+- Blogs are too personal for Damco to write from scratch — new process: Imago drafts, Damco optimises for SEO, Imago approves
+- Will agreed to brand discovery session — Harshit to send questions first, Will answers in bullet points, then call
+- Quora confirmed as "nice and easy" for Will — quick turnaround on approvals
+- June dashboard well received — "everything was really good"
+- Peak inquiry season: January–March — schools looking to change suppliers. Key reporting window for demonstrating SEO value
+- Imago USPs confirmed by Will: 10+ images per shoot (vs 1–3 from competitors), HD quality, better organised, higher parent sales
+- Social media delayed — Lucy, Nix, and Will focused on automated selections project (running late, critical for September)
+- GDPR blog held — cyber security check in progress; Will to confirm when it can go live
+- Schools rarely switch suppliers — it is a risk for them; when they do they say "I wish I'd done this earlier"
+- Imago ranking in ChatGPT top 5–6 for school photography searches — noted positively by Will
 
 **22 July 2026 — Weekly Sync #9 (Will Cardwell, Laura Morris, Nix Cardwell)**
 - Will and team want audit fixes ranked by impact — they need to know what is critical vs optional to manage their own effort

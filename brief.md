@@ -75,6 +75,19 @@
 
 <!-- Entries go below this line. Most recent first. -->
 
+**[2026-07-29 update]**
+- Imago's core USPs (from Will directly): (1) Higher quality photography — HD images that parents want to buy, not just feel obliged to; (2) 10+ images per shoot — competitors typically provide 1–3; (3) Better organised — answer the phone, higher parent sales; (4) "Definitely a higher quality photographer"
+- These USPs have not been communicated strongly enough on the website — Harshit flagged, Will agreed
+- Peak inquiry season: January, February, March (possibly December) — this is when schools are looking to change suppliers. November is existing customer traffic ordering photos — not new business
+- Lead sources: word of mouth, conferences, and an outgoing calls team. SEO and social media are what Will wants to grow for organic inbound
+- Schools rarely switch photographers — it is a perceived risk. When they do switch to Imago they typically say "I wish I'd done this earlier"
+- Blog process changed: Imago writes the draft, Damco optimises for SEO, Imago approves and publishes. Damco writing blogs from scratch is not working — brand voice is too specific
+- Brand discovery session agreed — Harshit to send questions, Will to answer in bullet points, call to follow
+- Automated selections project (Imagotech/Damco) is running late and is a primary focus for September — consuming Lucy, Nix, and Will's capacity. Causing delays to social media and other SEO tasks
+- GDPR blog written and ready — held pending internal cyber security check; Will to confirm when it can go live
+- Imago is already ranking in ChatGPT top 5–6 for school photography nearby searches (confirmed by Ashish on call, Will noted positively)
+- Social media: Lucy is earmarked to handle it; currently absorbed by automated selections project. Will confirmed social is "on the radar" — Damco to prepare SEO pointers in advance
+
 **[2026-07-07 update]**
 - Medium account created for Imago by Damco: https://medium.com/@MarketingSupport_61400
 - Will confirmed summer camp photography is not an Imago service — do not use in content
