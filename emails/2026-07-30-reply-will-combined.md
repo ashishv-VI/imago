@@ -8,7 +8,7 @@ Hi Will,
 
 Thanks for the update — good to have clarity on a few things.
 
-**How to Choose a School Photography Company** — confirmed, that was the first blog published. All good on our end.
+**How to Choose a School Photography Company** — confirmed, that was the first blog published and it is now live. We have already shared a set of SEO changes with Senthil for implementation, and those have been communicated to him directly. We will follow up with Senthil to confirm the changes are in place.
 
 **GDPR Blog** — we've reviewed the piece from an SEO perspective. The content itself is solid and we're not suggesting changes to the substance. Our recommendations, in priority order:
 
