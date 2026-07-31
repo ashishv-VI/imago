@@ -28,9 +28,7 @@ Are you happy for us to draft the FAQ section? If so, we'll prepare the question
 - r/UKParenting — UK parents discussing what they buy for school photo packages — exactly the audience we want to reach.
   Link: https://www.reddit.com/r/UKParenting/comments/1lr2bfl/what_do_you_guys_usually_get_when_it_comes_to/
 
-Are these the kind of threads you had in mind? If you're happy to proceed, we'll draft the responses and share them for your sign-off before anything goes live.
-
-**Why Photography Matters** — great, we'll look forward to receiving your draft whenever it's ready.
+Yes, the topics you shared were helpful — this is exactly how we've used them. We'll draft the responses and share them for your sign-off before anything goes live.
 
 Best,
 Ashish
