@@ -1,27 +1,12 @@
 To: Will Cardwell
 CC: Lucy (Lucy@imagophotography.co.uk), Harshit Kaushik
-Subject: Re: Blog Topics + Reddit Questions for Approval
+Subject: Re: Reddit Questions for Approval
 
 ---
 
 Hi Will,
 
-Thanks for sending through the blog topics — there's a lot to work with here and it's really helpful.
-
-**Blog Topics — SEO Steer**
-
-From an SEO perspective, we'd recommend prioritising the following for the website blog as they have the strongest search demand from schools and parents:
-
-- Image security for schools and GDPR permissions
-- Why are school photos expensive
-- Digital versus print
-- Greenscreen versus plain background for school photography
-
-The equipment and workflow topics — cameras, lighting, software, framing — are great for building credibility but tend to attract a practitioner audience rather than school buyers. We'd suggest using those as Quora and Reddit answers instead, where photographers and curious parents ask exactly these questions. We'll factor a few of them into our Reddit activity.
-
-**Reddit Threads for Approval**
-
-We have two Reddit threads ready for your review. As agreed, we'll draft the responses and share them with you for sign-off before anything goes live — same process as Quora.
+Following on from our call, we have two Reddit threads ready for your review. As agreed, we'll draft the responses and share them with you for sign-off before anything goes live — same process as Quora.
 
 - r/photography — a thread about school photography where we'd answer as Imago and share insight on what makes the job work well: lighting, workflow, managing large groups, and parent expectations.
   Link: https://www.reddit.com/r/photography/comments/1l9p3tc/school_photography/
