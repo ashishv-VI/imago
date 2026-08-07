@@ -8,6 +8,17 @@
 
 <!-- Entries go below this line. Most recent first. Format: date + bullets. -->
 
+**6 August 2026 — Brand Discovery & USP Walkthrough (Will Cardwell, Nix Cardwell, Senthil Kumar)**
+- Will confirmed Reddit threads shared (r/photography, r/UKParenting) were "far more aligned" with where they should be answering — positive response
+- Will mentioned he is trying to log into Reddit himself to do some replies — proactive engagement
+- Nix raised confidentiality concern about process details — expects nothing shared externally; referenced a previous freelancer who used Imago's process at another company
+- Will agreed but noted nothing shared was a "massive secret" — concern is about not giving competitors a roadmap
+- Will flagged that Imago is part-owned by a social enterprise — profits support disadvantaged children — described as a values differentiator for school clients
+- Will confirmed existing deals for parents buying across multiple shoots — not yet publicised
+- Will mentioned a monthly subscription model for parents is planned but not yet built
+- Lucy expected to be more available to support Damco once automated selections project is delivered
+- Will tone on this call: open and generous — wanted Simran to understand the business so content reads authentically
+
 **29 July 2026 — Weekly Sync #10 (Will Cardwell, Nix Cardwell, Senthil Kumar, Lucy Holland)**
 - Blogs are too personal for Damco to write from scratch — new process: Imago drafts, Damco optimises for SEO, Imago approves
 - Will agreed to brand discovery session — Harshit to send questions first, Will answers in bullet points, then call

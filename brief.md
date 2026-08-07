@@ -75,6 +75,19 @@
 
 <!-- Entries go below this line. Most recent first. -->
 
+**[2026-08-06 update]**
+- Full shoot process confirmed by Will: timetable co-created with school → photographer introduces themselves days before shoot → arrives 1 hour early to set up → ~1 minute spent per child (more than competitors) → 10 images per child through post-production → school gets admin login to approve → contact sheets (A5) sent to parents with login details → parents order online → delivery to school or home (home = P&P)
+- Post-production is a key differentiator — most competitors deliver images as-taken with no post-production at all
+- Outdoor photography option offered to schools — most competitors only do studio; Imago gives schools the choice
+- Flexibility on shoot day is a USP — when schools change plans (field trip clashes, swimming lessons), Imago photographers adapt on the spot
+- Yearbooks confirmed as a service — for school leavers: includes teacher interviews, pupil comments, photos. Not many other school photographers offer this
+- Marketing photography and promotional videos (~3 minutes) for school websites — charged at a day rate, separate from standard school photography
+- Whole school staged photography — Imago can accommodate up to 1,000 pupils on staging
+- Service breakdown: ~100% of schools do individual photos; ~80–90% do group shots; ~10% do marketing/video
+- NEW: Imago is part-owned by a social enterprise — some profits go to helping disadvantaged children. Will described this as a values signal to school clients. Not yet reflected in any content
+- Parent purchase model: average 2+ images purchased per child; deals available for multiple shoot purchases; monthly subscription model being considered (not yet built)
+- Confidentiality note (from Nix): Imago's process is a competitive USP and should not be shared with competitors or published in a way that hands the process to other photographers — all content goes through Will before publishing
+
 **[2026-07-29 update]**
 - Imago's core USPs (from Will directly): (1) Higher quality photography — HD images that parents want to buy, not just feel obliged to; (2) 10+ images per shoot — competitors typically provide 1–3; (3) Better organised — answer the phone, higher parent sales; (4) "Definitely a higher quality photographer"
 - These USPs have not been communicated strongly enough on the website — Harshit flagged, Will agreed
