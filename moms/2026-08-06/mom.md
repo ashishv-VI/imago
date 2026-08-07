@@ -10,13 +10,13 @@ Thanks for today — really useful for the team to hear directly from you.
 
 **Social enterprise** — We think this is a strong angle for content and will look at how to bring it in appropriately.
 
-**Reddit** — Confirmed the two threads we shared are well-aligned. We will draft responses and share them for your sign-off before anything goes live.
+**Reddit** — Confirmed the two threads we shared are well-aligned. If you would like us to help with the answers, just let us know and we will get something over to you.
 
 **Actions:**
 
 | # | Action | Owner |
 |---|---|---|
-| 1 | Draft Reddit responses for sign-off | Damco |
+| 1 | Confirm if you would like Damco to help with Reddit answers | Will |
 | 2 | Incorporate USPs and social enterprise into content plan | Damco |
 | 3 | Share any additional USP points that come to mind | Will |
 
