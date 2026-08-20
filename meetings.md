@@ -2,7 +2,7 @@
 
 > One entry per meeting. Most recent at the top.
 > After each meeting, paste transcript here or into `transcripts/` folder, then say "process transcript."
-> **Last Updated**: 2026-06-24
+> **Last Updated**: 2026-08-20
 
 ---
 
