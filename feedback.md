@@ -2,11 +2,19 @@
 
 > Factual observations from meetings and interactions. No interpretation.
 > Includes: approvals, pushbacks, preferences, constraints, and audience intelligence.
-> **Last Updated**: 2026-06-10
+> **Last Updated**: 2026-11-13
 
 ---
 
 <!-- Entries go below this line. Most recent first. Format: date + bullets. -->
+
+**13 November 2026 — Written exchange (Will Cardwell)**
+- Will acknowledged the project has not had the attention it needs and confirmed it will resume after the busy season
+- Will flagged that recommendations have sometimes arrived as finished wording with no explanation of why it matters or which parts are fixed vs flexible — this caused things to stall when he could not adopt text word for word
+- Will's ask: for every recommendation, include why it matters, a priority level, and which parts are fixed vs which can be reworded freely
+- Will confirmed: "Something that's 80% there and goes live is worth more to us than something perfect that stalls"
+- Damco committed to including Why / Priority (Must-do / Worth doing / Nice to have) / Fixed vs flexible on all future recommendations
+- Will said no reply needed — project to resume when busy season ends
 
 **6 August 2026 — Brand Discovery & USP Walkthrough (Will Cardwell, Nix Cardwell, Senthil Kumar)**
 - Will confirmed Reddit threads shared (r/photography, r/UKParenting) were "far more aligned" with where they should be answering — positive response

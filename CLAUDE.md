@@ -228,6 +228,18 @@ When the user says "status" or "where are we":
 - No emojis, icons, or AI-style formatting in emails or conversation responses — plain professional text only.
 - No bullet walls with emoji prefixes (e.g. ✅ 🔴 🟡) in client-facing emails — use plain text or simple bold headers.
 
+### Recommendation Format — Required on All Client-Facing Suggestions
+
+Every recommendation sent to Will must include three things. No exceptions.
+
+- **Why** — what it is meant to achieve (e.g. "this helps Imago rank for X" or "this gets Imago cited in ChatGPT answers")
+- **Priority** — Must-do / Worth doing / Nice to have
+- **Fixed vs flexible** — state clearly which parts must stay exactly as written and which parts Will can reword freely
+
+Will flagged (November 2026) that recommendations without this context caused the project to stall — he could not adopt wording word-for-word but did not know which parts actually mattered. An 80% solution that goes live is better than a perfect one that stalls.
+
+---
+
 ### Account-Specific Rules — Imago Photography
 
 - **Damco writes, client publishes.** FAQs and blogs are written by Damco and shared with Will for review. Publishing to the website is always done by Imago's team (Senthil / Laura) — NEVER say Damco will upload or publish to the website.
